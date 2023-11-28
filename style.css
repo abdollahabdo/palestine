@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.flag::before{
+    content: "";
+    height: 2px;
+    margin-left: 0px;
+    margin-bottom: -35px;
+    position: absolute;
+    border-width: 299px;
+    border-color: transparent transparent transparent red;
+    border-style: solid;
+}
+.flag::after{
+    content: "";
+    position: absolute;
+    left: 500px;
+    top: 264px;
+    font-weight: bolder;
+    font-size: 68px;
+    color:
+}
+.flag{
+    position: relative;
+}
+
+.b{
+    background-color: black;
+    width:100%;
+    height: 200px; 
+}
+.c{
+    background-color: white;
+    width:100%;
+    height: 200px; 
+}
+.d{
+    background-color: green;
+    width:100%;
+    height: 200px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Start Global Rules */
+/* * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+font-family: "work sans", sans-serif;
+} */
+/* End Global Rules */
